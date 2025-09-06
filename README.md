@@ -21,11 +21,8 @@ A whole variety of stuff. Going back to university has given me a lot of time to
 I'm not beholden to a set of tools and strongly prefer to understand what different languages or frameworks excel at, as well as what appeals to me from a DX/ergonomics perspective. As a result I've tried a lot of different tech through work and in my own time, but a few that have stuck with me:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 20px; vertical-align: middle" /> Python ([FastAPI](https://fastapi.tiangolo.com/) and [Django](https://www.djangoproject.com/))
-
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" style="width: 20px; vertical-align: middle" /> [Svelte](https://svelte.dev/)
-
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="width: 20px; vertical-align: middle" /> Go
-
 - <img src="https://coolify.io/docs/coolify-logo-transparent.png" style="width: 20px; vertical-align: middle" /> [Coolify](https://coolify.io/)
 
 
