@@ -10,7 +10,7 @@ In 2025 I left the industry to start a Masters in Geospatial Data Science, as I'
 
 A whole variety of stuff. Going back to university has given me a lot of time to work on things I find interesting, and programming/tech work feels a lot more interesting when you're not having to do it day in, day out. Aside from my Masters workload, I've been working on the following:
 
-- ☀️ Solar energy potential mapping with [Rewiring Aotearoa](https://www.rewiring.nz/)
+- ☀️ [Solar energy potential mapping](https://github.com/rewiring-nz/solar-estimates/) with [Rewiring Aotearoa](https://www.rewiring.nz/)
 - 🚌 Projects with GTFS data
   - mostly interacting with Christchurch Metro's APIs
 - 💻 Web development
