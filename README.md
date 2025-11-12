@@ -26,8 +26,8 @@ A whole variety of stuff -- going back to university has given me a lot of time 
 
 I've tried a lot of different languages, frameworks, and stacks through work and in my own time, but a few that have stuck with me:
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" style="width: 20px; vertical-align: middle" /> Elixir, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="width: 20px; vertical-align: middle" /> Go
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" style="width: 20px; vertical-align: middle" /> [Svelte](https://svelte.dev/), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" style="width: 20px; vertical-align: middle" /> [Nuxt](https://nuxt.com/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" style="width: 20px; vertical-align: bottom" /> Elixir, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="width: 20px; vertical-align: bottom" /> Go
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" style="width: 20px; vertical-align: bottom" /> [Svelte](https://svelte.dev/), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" style="width: 20px; vertical-align: bottom" /> [Nuxt](https://nuxt.com/)
 
 <p align="center">
   <br>
